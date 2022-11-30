@@ -6,7 +6,6 @@ thai@student.com
 Password 123
 
 Vai trò Teacher
-Password 123 
 nghia@teacher.com 
 phi@teacher.com
 thai@teacher.com 
